@@ -1,2 +1,2 @@
-# changfengbei
-比赛代码
+# EIQ-ABC
+基于EIQ-ABC的传统深度学习代码
